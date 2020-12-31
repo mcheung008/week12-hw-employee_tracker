@@ -1,4 +1,24 @@
-# Unit 12 MySQL Homework: Employee Tracker
+Employee-Tracker
+
+This Node application is for a business owner to be able to view and manage departments, roles, and employees in their company in order to organize and plan their business.
+
+The application gives you the following options:
+
+* Add departments, roles, employees
+
+* View departments, roles, employees
+
+* Update employee roles
+
+Installation:
+
+Run npm install to install all dependencies
+
+Run schema.sql in MySQLWorkbench
+
+Run seeds.sql in MySQLWorkbench
+
+<!-- # Unit 12 MySQL Homework: Employee Tracker
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
@@ -46,7 +66,7 @@ Bonus points if you're able to:
 
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
 
-We can frame this challenge as follows:
+We can frame this challenge as follows: -->
 
 ```
 As a business owner
