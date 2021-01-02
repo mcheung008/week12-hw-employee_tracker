@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shine7653/Homework12-EmployeeTracker.git"
+    "url": "https://github.com/mcheung008/week12-hw-employee_tracker"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shine7653/Homework12-EmployeeTracker/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/shine7653/Homework12-EmployeeTracker#readme",
+  "homepage": "https://github.com/mcheung008/week12-hw-employee_tracker",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.0.0",
